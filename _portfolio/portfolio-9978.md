@@ -31,5 +31,5 @@ Throughout the 15-month journey, I had many opportunities to apply technical kno
 
 
 Other links
-US Patent Application No. 18/188,560, linked at SFT's website https://www.mtl-sft.com/patent/artificial-intelligence-assisted-personal-training-system-personal-training-device-and-control-device/
-
+US Patent Application No. US20240001196A1, published at https://patents.google.com/patent/US20240001196A1 
+CN Patent Application No. 202210781291.7 [Link](https://www.mtl-sft.com/patent/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%BC%94%E5%8A%A9%E5%80%8B%E4%BA%BA%E8%A8%93%E7%B7%B4%E7%B3%BB%E7%B5%B1%E3%80%81%E5%80%8B%E4%BA%BA%E8%A8%93%E7%B7%B4%E8%A3%9D%E7%BD%AE%E5%92%8C%E6%8E%A7%E5%88%B6/)
