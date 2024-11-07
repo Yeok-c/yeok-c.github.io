@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV - Last updated 2024 January 1](https://yeok-c.github.io/files/ResumeCV_20240730.pdf)
+[CV - Last updated 2024 October 30](https://yeok-c.github.io/files/ResumeCV_20241030.pdf)
