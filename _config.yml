@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yeok Tatt Cheah"
   avatar           : "profile_1.png"
-  bio              : "Deep Learning and Data Engineer"
-  location         : "Hong Kong"
-  employer         : "https://hkclr.hk/"
+  bio              : "Deep Learning and Computer Vision Engineer"
+  location         : "London"
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "yeokc.cheah@connect.polyu.hk"
+  email            : "yeok.cheah.24@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
