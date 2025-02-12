@@ -14,7 +14,9 @@ redirect_from:
   - as a research assistant in Prof. Joanne Yip's team, for sports science applications
   - as a FYP student under Prof. Mak Man Wai, on detecting modified car engine sounds
   - as a participant in Prof. Edward Chung's Reinforcement Learning Reading Club
-- I'm currently working at The Hong Kong Centre for Logistic Robotics as a software engineer, particularly computer vision algorithms and deployment.
+- I worked at The Hong Kong Centre for Logistic Robotics as a software engineer, particularly computer vision algorithms and deployment and assisted in research work.
+- I'm currently studying MSc in Machine Learning at UCL.  
+
 
 -------
 
