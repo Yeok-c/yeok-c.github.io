@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+# This site is deprecated as of August 2025. New updates will be on [yeok.uk](yeok.uk)
+
+
+---
 - I grew up in Penang, Malaysia - an island known for community, culture, and engineering. 
 - I was awarded The Hong Kong Jockey Club Full Entry Scholarship and received my Bachelor in Electronic and Information Engineering from The Hong Kong Polytechnic University in 2022.
 - During my undergraduate studies, on top of taking related subjects, I pursued Artificial Intelligence / Deep Learning:
